@@ -1,0 +1,661 @@
+Laplace Unigram Language Model: 
+<s> 1 </s>
+<s> nigel thrush page 48 </s>
+<s> i have four in my family dad mum and sister (siter) </s>
+<s> my dad works at melton </s>
+<s> my sister (siter) goes (go) to tonbury </s>
+<s> my mum goes out sometimes </s>
+<s> i go to bridgebrook i go out sometimes on tuesday night i go to youth club (clob) </s>
+<s> on thursday nights i go bellringing on saturdays i go down to the farm </s>
+<s> on sundays i go to church </s>
+<s> i go to bed at 10 o clock i watch (wakh) tv at 5 o clock i live in a house </s>
+<s> the house is in the world </s>
+<s> i live at boar parva it is near melton and bridgebrook and smallerden </s>
+<s> the house is white it has stone up the front (frount) it is the first from bridgebrook and the second (sexeon) from smallerden </s>
+<s> my mum is at home she goes to the shop on fridays my dad goes to work at smallerden </s>
+<s> what i do when i get home from school </s>
+<s> on monday i sometimes go down the farm in the night i watch (wach) tv there is bbc and itv </s>
+<s> i like itv </s>
+<s> we call anglia itv </s>
+<s> we have got anglia like to watch (wach) cowboys </s>
+<s> on tuesday i get off the bus and sometimes in the night i go to the youth club (colbe) </s>
+<s> i like to watch (wach) tv </s>
+<s> there is a lot of things on tv </s>
+<s> i watch (wach) it each night </s>
+<s> i think (thing) tv (tv) is good but people say it gives us square (squar) eyes (iyes) </s>
+<s> the murder car </s>
+<s> 1 night when it was dark about 12 oclock (oclock) a man was knocked (nock) down by a car </s>
+<s> the body was found at (a) 7 oclock (oclock) in the morning </s>
+<s> the name of the man who was killed (kild) was jack robbinson he has black hair brown eyes blue jacket and blue jeans </s>
+<s> no one saw (see) the car </s>
+<s> there had been (bean) a lot of people knocked (nock) down by a car so they called (cald) it the murder car </s>
+<s> the police came (cam) out to look for the car </s>
+<s> the other cars were black so one of the other people said </s>
+<s> the murder man has a black beard the next day one of the policemen were killed (killd) the next day they found the car over the hill there (the) was the man near it he was dead </s>
+<s> i kissed a girl one night her (here) eyes (iyes) were burning blue she said o do you love me of course of course i do </s>
+<s> bell ringing </s>
+<s> when you start bell ringing you hav ring a bell before you can do anything else (als) </s>
+<s> it takes a lot to ring a bell on the rope there is a sally </s>
+<s> on the bell there is a wheel (weel) </s>
+<s> the wheel (weel) has the rope on it some sallies (sally) are green and the others (other) are red white and blue </s>
+<s> when you can ring </s>
+<s> you have to ring rounds (rouns) that is when you go 123456 when you can do (don) that </s>
+<s> you ring (rings) like this </s>
+<s> these are the names of them plain hunt plain bob grandsire doubles </s>
+<s> grandsire triples it takes a long time to ring them </s>
+<s> i have been ringing a long time we go to smallerden and oakwell and guildwell we will be (we) going to smallerden this thursday i ring 1 2 and 3 but not 4 5 and 6 i like going bell ringing some time the bell breaks (brakes) and the rope goes up and if you are not careful (carfull) you will go up with it we start at 730 and end at 9oclock </s>
+<s> me and my dad bike to melton </s>
+<s> the sick sow of the army court </s>
+<s> one day sergent s m bullimore told hut 29 to clean cynthias (cynthia) pig sty out </s>
+<s> when hut 29 got there they had to go and get some gas (gass) masks (marsks) because the smell was to strong </s>
+<s> when s m bullimore came to the pig sty the pig was laid out on the floor (foor) </s>
+<s> when they came back s m bullimore said what (wat) have you been doing to my sow </s>
+<s> we have not done anything we had to go and get some gas (gass) masks (marsks) because the smell was too (to) strong </s>
+<s> that is only the soap what (wat) i wash (wosh) it with </s>
+<s> perhaps (prasp) he ate (et) some soap </s>
+<s> flogger said shall i go and get the vet </s>
+<s> get back in the line before i put you on charge </s>
+<s> flogger said under his (is) breath `go and have a pony (poney) run </s>
+<s> what did you say </s>
+<s> o nothing sir </s>
+<s> go and get some whiskey (wiskey) </s>
+<s> okay sir </s>
+<s> put some soap in it flogger said oswald </s>
+<s> ok said flogger </s>
+<s> flogger went off </s>
+<s> a little while after he came with a large soap (soape) whiskey (wiskey) </s>
+<s> he gave (cave) it to s m bullimore </s>
+<s> then he gave (cave) it to the pig </s>
+<s> a little while after the pig got (go) up and there beside her (here) were six little pigs </s>
+<s> s m bullimore said that made her (here) better that was not me that was the soap (sope) </s>
+<s> you are on charge </s>
+<s> what (wat) did you give her (here) </s>
+<s> i gave (cave) her some whiskey (wiskey) and soap (sope) you gave (cave) her that </s>
+<s> no i never (knver) i sir </s>
+<s> you did </s>
+<s> thats (thats) one thing sir it has made her better </s>
+<s> pigs when young up to being killed (kild) for bacon </s>
+<s> when they are young you have to wait (wate) 3 days then you can inject (injeck) them for pneumonia diseases </s>
+<s> you have make (mack) sure (shore) they have dry (drye) straw </s>
+<s> when you clean them out you should not leave a fork (falk) in with them because the mother might knock (nock) it down and the little pigs might stab themselves </s>
+<s> we give them (the) worm (worme) powder (pouder) </s>
+<s> that is when they get the worm (worme) </s>
+<s> this will stop them from going thin </s>
+<s> you should box a little place off so only the little pigs can get in it </s>
+<s> that is so they can get (ge) out of the way of their (there) mother </s>
+<s> some people put a light in with them (theme) to keep (geep) them warm </s>
+<s> you have to make sure (shore) that mother has a lot of milk </s>
+<s> if she has (as) not got enough milk you will have to feed them on a bottle </s>
+<s> when they can (came) eat a little bit you can get them some little nuts for (of) fattening (fating) </s>
+<s> they can eat (eate) some meal when they get a little bigger (biger) </s>
+<s> we give them some fattening (fating) food called nomber 2 </s>
+<s> when (whe) you wean that is take them from their mother you have got to see if they fight if there is any little ones (wones) </s>
+<s> fighting </s>
+<s> when they are (and) big (bing) you have to see about weighing (waying) </s>
+<s> when they have been weighed (waid) and ready (reddy) to go away to be killed (kild) </s>
+<s> billy bunter was too (to) large so they sent for him (im) in charge </s>
+<s> him (im) in charge was too (to) thin so they sent for (fro) rin tin tin </s>
+<s> rin tin tin heart is poor so they sent for barbra moore </s>
+<s> barbra moore was having dinner so they (the) sent for yule brinner </s>
+<s> yule brinner sang too (to) high then they went to space in the sky </s>
+<s> my heart is full of sadness my heart is full of joy it might be my wife or it might be helen of troy (toy) </s>
+<s> one saturday i thought (though) i would go to the races at london </s>
+<s> i went on my royal (royl) enfield </s>
+<s> they can go quite fast (farst) </s>
+<s> this was a royal (royl) enfield ? (consulatoin) </s>
+<s> there were some royal (royl) enfield racing there as well </s>
+<s> i saw a royal (royl) enfield come first it was like mine </s>
+<s> there were the new japanese (japannese) honda (hondor) </s>
+<s> they are very fast (farst) and getting (geting) quite popular in england </s>
+<s> i saw one man come off </s>
+<s> he was on a bsa </s>
+<s> one man had to go in hospital because he broke his (is) leg (lege) </s>
+<s> another man hurt (hearte) his (is) arm in a sidecar race </s>
+<s> i dont (dont) think (thing) it was much </s>
+<s> i saw (sow) a sidecar turn (turne) right over </s>
+<s> the sidecar man was alright but the motorbike rider was thrown into the crowd </s>
+<s> i dont (dont) know (no) what happened (hapend) to him </s>
+<s> he was hurt (heart) quite bad </s>
+<s> the sidecar broke off the motorbike and spun (spund) down the track for 7 yards then hit a man who was on the corner and killed him </s>
+<s> his hat was blowing down the track </s>
+<s> the motorbike caught (caugh) fire and blew (blow) up </s>
+<s> the petrol (petal) went all over the track but they soon (sone) put it out by sand </s>
+<s> there was some oil got on the track as well </s>
+<s> it made it very slippery </s>
+<s> there (they) were quite a few people there because it was a nice dry day </s>
+<s> the final (fianl) race was on </s>
+<s> there were 2 royal (royl) enfield 3 japanese honda (hondor) 1 bsa </s>
+<s> 3 triumph (triumh) </s>
+<s> they were on the starting line </s>
+<s> bang theyre (there) off </s>
+<s> one bsa is still on the starting line the rest are round the bend </s>
+<s> i can see one man off </s>
+<s> he is on a triumph (trumh) </s>
+<s> i think a japanese honda (hondor) is in the lead </s>
+<s> i think he is going (go) to lead </s>
+<s> hes (his) won (one) by 3 yards and a royal (royl) enfield 2 and a honda (hondor) 3 </s>
+<s> the end </s>
+<s> we went over the football field it was quite wet and soon made my toes cold </s>
+<s> the grass was quite long now it shone (shon) with the dew on it </s>
+<s> a field ploughed (ploud) next to it i think it was done (don) yesterday </s>
+<s> on the other side was a (an) hedge </s>
+<s> it had a lot of thorns in it </s>
+<s> they had (hade) cleaned (cleand) the river and made it very wide for (fore) the ducks </s>
+<s> there were some potatoes (potato) in the water </s>
+<s> there were some brussels men sitting in the pathway round a fire </s>
+<s> we had to go on to a ploughed (ploud) field to get round them this made my shoes heavy (hevey) </s>
+<s> this was quite muddy </s>
+<s> some boys did not think much to it nor did i but we still went </s>
+<s> the dew on the brussels leaves made them like (look) pearls (pirls) </s>
+<s> mr holbrook went over the brook first </s>
+<s> some were boys going round but only one went </s>
+<s> after all the rest went over the tree gerald nearly (nealy) went in </s>
+<s> one foot touched (toch) the water </s>
+<s> then we went across the new piece (pice) of grass into school </s>
+<s> we went and cleaned (cleand) our shoes with paper </s>
+<s> then the bell went for break (brack) </s>
+<s> 2 </s>
+<s> joan stall page 54 </s>
+<s> a poem a little yellow bird sat on my window sill he hopped (hop) </s>
+<s> and popped (poped) about he whistled (wisheld) he chirped (cherped) </s>
+<s> i tried (trid) to catch (chach) my little yellow bird (brid) but he flew in to the golden yellow sun o how i wish that was my yellow bird (brid) </s>
+<s> ann thats what you think john thats what i know (no) jean the longer you stay here talking we cant (carnt) get on with you here dennis come on john i know (no) when were (were) </s>
+<s> not wanted (whanted) jean yes youre (your) </s>
+<s> not wanted (whated) here john goodbye </s>
+<s> ann i knew that would happen </s>
+<s> apple red and green start are bright the apple trees are tall the leaves (leavs) are small the apples (apple) </s>
+<s> fall in autumn (aount) time </s>
+<s> when you (yow) get to the cores (corres) inside the cores (corres) are pips you (yow) throw (thorght) the cores (corres) on the fire to burn (brun) then </s>
+<s> the boys in our village go in the orchard (orcher) and climb (clim) the trees and pinch them (then) </s>
+<s> all then they run away with them (then) </s>
+<s> then the earwigs (eyewigs) fall out in their (there) pockets (pocket) </s>
+<s> the apples (apple) are sweet </s>
+<s> the trees are full (fall) of apples (apple) </s>
+<s> some of them (then) are cookers </s>
+<s> the apples are so gay hanging (haing) on the trees </s>
+<s> with the sun on them (then) </s>
+<s> no wonder the boys like pinch them (then) </s>
+<s> what i am going to do when i leave school </s>
+<s> when i leave i want (whant) to be a hairdresser in melton or tonbury </s>
+<s> or i want (whant) to work in a shop </s>
+<s> i do not want (whont) to get married (marryid) till i am twent </s>
+<s> when i have children i am going to leave work and the husband (husbon) has got to like children and take (tack) them out </s>
+<s> i want (whant) twins </s>
+<s> and i want (whant) four bridesmaids </s>
+<s> i want (whont) to live in a bungalow </s>
+<s> for my holiday i would like to go to butlins (butlins) for a honeymoon (hunemoon) i like to go to scotland </s>
+<s> on our table there is a sculpture (sculptor) model (modal) this was made by mrs chalmers this is just like a real thing (think) </s>
+<s> this is a model (modal) of a boy it is standing (staning) on a block wood this was modelled (malod) in clay not a whole model (molad) just the head </s>
+<s> swan upping </s>
+<s> when they do this kind of thing (think) they need calmer (comer) waters </s>
+<s> they have to handle them very carefully (caresll) they use small boats people (peolpe) think this is very cruel (corller) to catch (cash) them and put stamp on their (there) wings in this picture there is a man carrying (carring) one (on) out of the boat its wings (wing) are tied so that it can not break (brick) the mans (mans) arms the swans (swan) are delicate (dellitent) things (think) </s>
+<s> poem (pome) </s>
+<s> one day the sun was out and up the stairs i went </s>
+<s> my mother in a temper i spent my day in bed </s>
+<s> for fear of my mother i darent (darnt) go near </s>
+<s> for fear i didnt (dident) get to see the sun </s>
+<s> there she lays so quietly (quitely) there waiting for the day people weeping waiting sighing all the days their (there) hearts are weeping crying so hearts beating (beting) so rapidly (raperly) </s>
+<s> linda im (i) not going out tonight with him i dont want to see him again </s>
+<s> mary (marry) linda stop it and come out here (hear) at once </s>
+<s> linda you cant make (mack) me </s>
+<s> john whats (what) wrong (wong) </s>
+<s> mary (marry) i told her that you were taking (thaing) me out (owt) at half past 12 tonight john you what </s>
+<s> mary (marry) well i had to tell her john yes i suppose you did well its (it) not her fault (falt) </s>
+<s> its (its) my fault (falt) for trying (traing) to be a pig </s>
+<s> mary (marry) mine too still youve (you) got the job of choosing (ching) her or me john i think i had better (bet) go home and think it out linda theres (theres) nothing to think out i am through with you for good </s>
+<s> john linda wait linda whats (what) the good of waiting for you is it </s>
+<s> linda slammed (slander) the door in his face </s>
+<s> john hello jean cant (carnt) we talk (tallk) it over and come to some decision (disson) </s>
+<s> jean talk about what for instance (instead) </s>
+<s> john well make it up </s>
+<s> jean i am sorry john theres (theres) nothing to make up </s>
+<s> john what do you mean theres (there) no (on) one else (eles) us is there </s>
+<s> jean well what if there is (us) its (its) got nothing to do with you </s>
+<s> john look i am only trying (trining) to be nice </s>
+<s> jean well dont john all right then (them) i wont be nice it looks like i got to be rough (rought) with you </s>
+<s> jean if you lay a hand on me i will scream (scem) </s>
+<s> john do you think that scares (scards) me </s>
+<s> jean well i warned (wornd) you (yew) didnt i john i dont care what you (yow) said </s>
+<s> you (yow) just want (whant) to hurt (hert) me </s>
+<s> jean no i dont you think you can hurt (hert) me well youre (yow) wrong (rong) </s>
+<s> john i dont want to think of it </s>
+<s> jean well perhaps you (yow) better not see me any (eney) more </s>
+<s> john dont be silly i want to see you (yow) tonight </s>
+<s> jean i dont know (no) about that </s>
+<s> john i see you (yow) at 6 oclock </s>
+<s> jean well all right then john youre (your) a doll </s>
+<s> jean i dont (dont) know (no) about that </s>
+<s> john well i do </s>
+<s> jean goodbye (goodby) see you tonight </s>
+<s> character (charickter) </s>
+<s> their (there) parents david and jill </s>
+<s> it all started with a row with their (there) parents </s>
+<s> jill i am fed up with you (yow) telling me who (how) to go out with i am not a two year old i can make up my own mind without asking (arsking) you what to do </s>
+<s> parents that will be enough from you (yow) my girl or else (els) youll (your) find yourself in bed i just had enough (engouh) of you my girl </s>
+<s> jill well i am going to pack my bag and move out </s>
+<s> parents if you move out youll (your) never come in this house again </s>
+<s> jill well thats (thats) good enough (engouh) for me ill (i) be out in an hour </s>
+<s> parents when you get out you can stay out </s>
+<s> jill thats (thats) good </s>
+<s> jill ran upstairs to pack a case she came down put on her coat and went out of the front door </s>
+<s> parents shes (she) not coming back in this house whatever happens (happends) </s>
+<s> jill went to her boyfriends (boyfrends) house she rang the door bell david opened (opend) the door </s>
+<s> david what are you doing here (hear) ? i was just coming round to your house to see if you could put me up for the night i have had a row with my parents </s>
+<s> they told me to get out </s>
+<s> jill so (show) have (has) my parents </s>
+<s> david lets (lets) go and get married thats (thats) if you want (whont) to married </s>
+<s> jill of course i do </s>
+<s> david well lets (lets) go and get married then we can get a flat or something (somethink) well they got married and got a house </s>
+<s> they live happily (happly) ever after </s>
+<s> the end </s>
+<s> 5 elmden road nr melton 21 november dear france i thought i had better write to you telling you (yow) what we do in english with mr </s>
+<s> holbrook well we do a lot of writing such as story and letter so that it helps when we leave school </s>
+<s> it helps speak properly when we leave school </s>
+<s> love joan </s>
+<s> 3 </s>
+<s> george green page 62 </s>
+<s> a story (stors) the blind date people </s>
+<s> rex harrison works (work) at visor television factory (factoy) jean smith also works (wors) at ? (nsor) audrey watson (watston) works (wonrs) at the greenhouse (gnenhouen) in melton </s>
+<s> jean said to audrey has a sweet and audrey said to jean we are this rex is is excited (exited) and jean and rex went (wetn) to (two) the house of his (he) mother (mouthr) and rex said to jean is it my house and jean said (sald) to rex it is a ? (nis) </s>
+<s> the sneaking (sneking) gang are dangerous and a tedd went in the shop and the sneaking (sneking) gang went to (two) the shop waited (wated) for the tedd and the tedd came (kom) out of the shop and hit a old man outside of the shop and the sneaking (sneking) gang got the tedd and three of sneaking gang the tedd </s>
+<s> the sick sow </s>
+<s> one (won) day the sow was sick and the old farmer (frm) went for (four) the vet (vethn) and the old sow wasnt (whdnt) not healthy (hethy) and (an) fit (fanit) and the old farmer (frm) said (sidn) to vet (vethn) the old sow is unhealthy so the vet (vethu) said (sidn) to the farmer (frmh) i will come (kumh) and see </s>
+<s> the old (lod) sick sow said (sidn) the vet (vethn) and the farmer (frmh) went to (two) see the old (lod) sick sow and the vet (vethn) and the farmer (frmh) see old (lod) fat sick sow said (sidn) the farmer (frmh) and went at the farm (frm) and not the farmer (frmh) out (ouht) the big fat sick sow went and laid (ladh) down the farmer (frmh) went too (two) with the big fat sick sow and saw behind (behism) and the farmer (frmh) </s>
+<s> went in his (he) house and he sat down and he ? (bav) he and sick sow went two (to) lay (ladh) down and the vet (vetin) went and the vet (vent) see what (wat) is wrong (ron) with (wis) and the sick sow went to sleep (seph) and the vet (vethn) went to (two) the farmers (frmh) house and sick sow the vet (vethn) to the farmer (framh) and the vet (vethn) said (sidn) to (two) the old big fat sick sow is asleep and the sick sow not the vet (vethn) and farmer (frmh) run and run up ? (sechrus) and the sick sow went to the pigs (pigs) house and laid (ladh) down and went sleep (seph) and the farmer (frmh) hot vet (vethn) and went back (bakh) to melton and farmer (frmh) went (weth) to see see sick sow and he ? (ruth) ? (humit) and sick old sow woke (wok) up and old sow is better (beththe) end (and) </s>
+<s> the beheading good people all i pray you now behold our old fools bracelet is not made of gold but it is made of iron and good steel and unto death well make this old fool yield </s>
+<s> fool i pray forbear my children small for as i am lost as parent to you all o let me live a while your sport for to advance that i may rise again and with you have a dance </s>
+<s> they sing now old father that you know our will that for your estate we do your body kill soon after death the bell for you (your) shall toll and wish the lord he may receive your soul then the fool falls down and the dancers with their swords in their hands (hand) sing (sings) the following song </s>
+<s> good people all you see what we have done (don) we have cut down our (ous) father like the (ge) evening sun (son) and (ane) here he lies all in his purple gore and we are afraid he never will dance more </s>
+<s> november 11 1960 the sneaking went to the pub and a pint of brown and went out of the pub and went round the corner to the shop and see tedd start (starte) trouble (troefle) and the sneaking went the tedd and the tedd running up and down the streets and the sneaking went round (rownd) the corner to see the tedd on the </s>
+<s> 15 november 1960 the redex jack omalley boss george green 2 head john young 2 head went to (two) the pictures (pictyres) and hit the manager (maneger) and he went down the stairs (stars) and hit a woman (women) and she (he) fainted we home </s>
+<s> the end of the story </s>
+<s> 15 november the poem of the old women </s>
+<s> my old man a he old women ? (hurbured) she </s>
+<s> 29 november 1960 </s>
+<s> i am a man 6 ft tall he landed (laded) in the kitchen (kitching) ft in the hall </s>
+<s> the school </s>
+<s> the school in the meadow (meadoy) a school the road a man the confide (cornfield) where daffodils (daffodill) do grow </s>
+<s> the house of love the man is a policeman and he to the house of house love and he went in a man ? (crowsed) the head (hed) and the policeman went down on the floor and house of love was (wos) haunted and the police went to the haunted house of love and police got the man in house of love the end </s>
+<s> the tedd are a big-headed and police want (wat) to get a grip of the tedd and see about the knife (kniffe) of the shop (shap) at the cafe (kiffe) and to (two) see the shop keeper and to tell the shop keeper not to (two) not to give the tedd knife (kiffe) </s>
+<s> they are too (two) dangerous (dangers) and they (the) murdered and we are trying (try) to stop </s>
+<s> apple apple on the tree can you come and please me ? if you can you will be the sweetest apple on the tree </s>
+<s> the stolen goods on saturday tom took a lorry up to london and the police car (star) stopped tom and a arrested him and they took him to the police station and questioned (question) him and he went to prison for 7 years </s>
+<s> the end (and) </s>
+<s> the man died (ded) on monday a old man went to the old club and not man went see him (hm) shot himself </s>
+<s> the end (and) </s>
+<s> the ship tony went on the queen mary on him met james and phil and i went to see the q liner </s>
+<s> 13 january the story (hio) the thieves at monday i went to the car park and see a man steal (still) a car and went to fetch the cops and the cops (caps) went to the car park and the man went out of the car park and (an) the cops (caps) went to the cops station and i went london i see went up the pipe and went to the pipe and shook the pipe and the man came (kum) down the cops come to the man and arrested </s>
+<s> the end (and) </s>
+<s> 13 january the story (shio) of the jap case on monday i see jap case taking bike and went to the shop and taking a bowl sweets (swet) went on bike and the police was (wos) waiting (waten) for jap case and jon case was arrested and the case on friday and jap case was guilty (guilt) of taking a bike and he 7 jail </s>
+<s> the end (and) </s>
+<s> the down gang saturday the down gang went to the cafe and hit the old man and the cafe man went to ring the police (polic) and the police (polic) came (cam) to the cafe and the down gang beat the police (polic) and the down gang run for it a police car caught and the down gang got 7 years in jail and he wife went (wen) to see (se) her (she) husband in jail and warder in jail house went (wen) to he husband and told it (she) is time (tim) you went said the warder and she went home and he did not come (coum) home </s>
+<s> the end (and) </s>
+<s> the murder hunt in the day man and a girl went in to (two) a cafe and man and girl never come out of the cafe and the old man (mae) and girl went to a walk and the old man murder and he went home and mother father went to (two) the police and the police (pollce) went in the cafe and the police said to the man at the counter did (ded) you serve girl and old (lod) man yes the man at the counter thank and the police went for (four) walk and the police found the girl murdered (murbur) murder (murber) hunt the found the mat died </s>
+<s> the end (and) </s>
+<s> 25 january the story (shio) tramps (trmp) i went to work and i see a tramp (trmp) walking up the road (rod) and i went to see the tramp (trmp) and i said to the tramp (trmp) what (wat) do you want (woth) i said (sald) the old tramp (trmp) the rotter school teacher name is mr holbook he is a tramp he needs a wash and a haircut and a new shirt and he has a big head and beady eyes (eyey) i went up heath and i see a old man with a gun and i run down the hill and old man chase you and he (the) is gaining my and i followed (fellowed) and i was on the side the road and said (sid) to an irish stop the man from shooting you and the irish hit him knocked him out and went home (hom) and sat down bill said (sid) to man do you want a fag and said (sid) yes went out </s>
+<s> the end (and) </s>
+<s> in 19 january 29 a murder on the a 10 a young boy in the road coppers went along the road and see the young boy in road and the coppers identify the boy he was john easter the sergeant </s>
+<s> 30 may 1961 the girl is locked (locked) in an attic the missing girl was found in a attic the lady went down the road (rad) got to man (manh) and she rung the police station and the fire brigade and the fire man (manh) smashed a window and the girl is safe and the man (mand) who might able to help them his (he) name is john smith sandy hair and he is driving a standard (stardnd) ten (tan) xtv 212 if anybody see it please ring scotland yard (ysid) whitehall 1212 </s>
+<s> the end (and) </s>
+<s> toms (toms) rotten house tom sullivans house stinks (sticks) and his chairs have holes in them his mother (morther) is a fat pig his dad is trashy (tashie) and tom sullivan wears baggy trousers like old somerset people </s>
+<s> i see a hare running down the field (fed) and i see a fish (fsh) sticklebacks in the down in the water and a wild rose in the hedge and rook up in the air (hare) i see a water-rat (waterrat) it went in a hole in the bank </s>
+<s> and i see a dead rook and we climbed over a willow tree and walk down the field (fed) and walk back to (two) the school (shool) </s>
+<s> hare hare come (com) to me or else i kick up a tree fish sticklebacks in the sea (see) i will sticklebacks out of the sea (see) or you can pull me in the sea (see) and i swam in the sea (see) </s>
+<s> a rook has a long beak and a big head and long wings and big feet (fet) and the colour is black and in the sun is it blue </s>
+<s> the of old man i come out of the old man house and run down the road to (two) the telephone ring john and porky (paulkey) and james and i went up the road to (two) the old man house and paulkey and john and james and john has a gun and we threaten and the old man is bleeding john went to get a doctor and he (the) went ring the hospital and the ambulance (amblance) come and the old man went to (tow) hospital and the gang went to (two) see the old man he is dying (dieing) and the boy went home (homse) and the old man died </s>
+<s> a cat run to (two) the door (boor) and sat on the mat a dog see the cat and cat see the dog and cat ran to (qu) the wall (molh) and he the roof (rhfn) of a house and down chimney (cimbenr) and out of the fire (fiar) and old man jumped (jumth) out of his (he) seat (sat) and the cat ran over (ove) the mat and dog run out (ou) to (two) the door the cat run up the wall (wah) to (two) the (he) house ran in the and and sat on the mat </s>
+<s> the cat sat on the mat </s>
+<s> a boy of 18 went (wens) in the army (hrmehr) and didnt (denat) like (lichr) the army (hrmehn) and went on leave (lefnr) and he didnt (dednt) not come (comr) douche (back) and 14 day went by (bihr) the captain (cpn) said (sedn) to james carr has not come back (doc) yet (yeth) go the he down (dus) ? (unz) sun road (rod) london (londod) </s>
+<s> the gate house melton </s>
+<s> dear mr t </s>
+<s> mr holbrook is a better teacher than you think (thank) and i think (tink) your idea is stupid and i do not like your idea (ida) yours (yourns) sincerely george green </s>
+<s> two clowns in a circus (sercus) ring playing around with a old cat some drunk water hoses pointing (pooting) it over each other the crowd laughing at them a saw mill with cows in the back meadow (medow) a police car coming along the road (raod) with its siren (satren) going and men hammering (hemmsering) many (meny) metals (metet) or (ot) tin a band playing in a dance (dane) hall and young (yung) peep (peope) dancing (pncing) to it it sounds like ? (anetes) got (gnt) killed </s>
+<s> 4 </s>
+<s> john young page 77 </s>
+<s> my family </s>
+<s> there (they) are 6 of us my dads (dads) the oldest my mums (mums) the second oldest </s>
+<s> my oldest sister is 22 and married (marrede) with 1 child of 3 months (month) </s>
+<s> my second sister is 18 and she worked for the mobile blood-transfusion centre she has a flat at michems corner tonbury my third sister is 16 and works at the milk company (coperney) tonbury and shares the flat with my other sister </s>
+<s> i live at elmden on a farm as i am the youngest person (peason) in the family i get picked (picted) on for a lot of things here is a eg </s>
+<s> when we are all watching tv </s>
+<s> dad says (sais) make a cup of tea mum </s>
+<s> mum says (seis) doris you make a cup of tea </s>
+<s> doris says (sais) peggy you make a cup of tea peggy says (sais) sylvia (sylver) you make it </s>
+<s> sylvia (sylver) says (sais) john you make it </s>
+<s> so as i am the youngest and have n younger to pick on so i have to make the tea </s>
+<s> people are a funny lot some are nice some are not some will help you some wont bother but there is one i like and thats (thats) my mother </s>
+<s> macwilliams (macwillaims) ran to a brick wall he began to climb it when he got to the top of the guard room then he heard the other guard coming he pulled (pull) a knife out of his pocket which (witch) he stole from the kitchen (kichen) he threw (frow) it at the guard it dug into his arm and he but he was still strong he pulled out his truncheon and hit macwilliams (macwillaims) in the face he fell forward (forword) off the roof he fell to the ground head first he hit the ground with an almighty (almity) thud he broke his head and died (diad) </s>
+<s> the jordan family were once a happy crowd </s>
+<s> the family of six lived (lifd) in a council (counsel) house just outside london (londen) but something went (whenet) wrong </s>
+<s> mother and father were always shouting at each other the people across the street could hear them fighting (figthing) the children would cry tommy was the oldest he was 12 he was more grown (groon) up that than the others </s>
+<s> jane was 8 she was frightened of her mum and dad joan (jone) was 5 and alan 1 1/2 years </s>
+<s> he was too (to) young to to understand he was crying all the time nevertheless </s>
+<s> it happened to me when i was 4 years old i very nearly died (diad) </s>
+<s> it was one sunday when my 3 older sisters and i were out for a walk i had my photo taken near a brook </s>
+<s> i still have the photo </s>
+<s> the brook was about 8 feet wide </s>
+<s> the water was about 2 feet deep </s>
+<s> but there (they) was 6 feet of (off) wet slimy mud i was the first to cross the bridge it broke and in i went </s>
+<s> i slowly (slolly) sank in the mud my 2 youngest sisters ran home but my oldest sister stopped (stoped) and saved my life she held my head above water until (untill) my sisters got home and told my parents </s>
+<s> then they raced down to the brook dad had (have) a hell of a job pulling me out as the mud held me down eventually he (his) got me out and carried (carred) me home </s>
+<s> my clothes had to be (me) destroyed (distrod) it took seven baths (bath) to get me clean (clearn) </s>
+<s> im (im) am never allowed (alloud) to sit up and watch programmes (programes) not suitable (surtebull) for children one night when dad was digging the garden mum had gone out there (they) was a film on tv unfit (unfitt) for children i sat and watched it it was all murder and killing men were being hung and others (other) were being shot or stabbed (stabed) </s>
+<s> men had their heads cut in half </s>
+<s> my work on a farm i have live on a farm all of (off) my life i am not boasting (bosting) but i think i know a fair bit about farming </s>
+<s> i know most about cattle and only a little about machinery </s>
+<s> some people say farming is the lowest paid (payed) and hardest working employment (imployment) out </s>
+<s> i agree with those people </s>
+<s> but i would rather work for my living than just sitting (siting) in a stuffy (stufy) old office adding up numbers all day or whatever they do </s>
+<s> give me the open air life </s>
+<s> my father is a farm stockman and i hope to take on the same job when i leave school </s>
+<s> i am going to take my apprenticeship (apprentiship) course when i leave at easter </s>
+<s> that means that i go to classes (classis) once (ones) a week </s>
+<s> i will learn a lot more about farming and if i pull through the course i will be a useful (usfull) chap about the farm </s>
+<s> while (will) i am taking my course i will be getting (get) 17 shillings (shilling) less than the boy worker that is not taking the course </s>
+<s> but when i am 17 and finished my apprenticeship (apprentiship) i will get 10% more than the average pay of (off) a boy my age </s>
+<s> many people asked me why i have chosen (choosen) farming as my future career (carrer) </s>
+<s> (1) i will be in the open air </s>
+<s> (2) i will be doing a different (diffrent) job every day (3) i am not interested in anything (enthing) else </s>
+<s> for the last 2 or 3 years i am have been working (work) on the farm in the holidays </s>
+<s> and i can tell the men i have worked with have been good and given (give) me a few tips </s>
+<s> my dad has told quite a lot about farming which i know will help when i leave (life) school </s>
+<s> so if anybody wants (want) an open air life choose farming </s>
+<s> 5 </s>
+<s> ann barley page 81 </s>
+<s> dear rose </s>
+<s> i hope you are alright </s>
+<s> i am writing to tell you about my english i have done with mr david hollbrook </s>
+<s> he is always making me write letters or stories </s>
+<s> i know english will do (done) me more good when i leave school </s>
+<s> but sometimes i get very bored </s>
+<s> mind you im not very good at english but i try </s>
+<s> love and best wishes ann </s>
+<s> dear mr hollbrook i hope you will soon get better and come back to school and teach us have you marked the exams papers </s>
+<s> i hope this letter will cheer you up </s>
+<s> all the class were sorry to hear you had flu </s>
+<s> well soon get better yours (you) sincerely joan stall and ann barley 3c </s>
+<s> my family </s>
+<s> there (they) are eight in my family two boy and four girl and (a) one mum and one dad i have one sister engaged she will not get married yet because she is only 17 years old she has a boy from melton his name is michael coote and he is 19 my dad works on a farm and one of my brothers (brother) works in a garage and the little one goes to the primary school bridgebrook one of my sisters (sister) comes (come) to the college and one at the primary </s>
+<s> my biggest one works at the handsome ? (half-hose) my brother and sister which goes out to work go at 7 in the morning and come home at 7 at night </s>
+<s> my dad likes (like) a good meal when he comes on from the farm and so does my sister and brother like a good meal when the kids get home from school we have a cooked meal and then we watch childrens hour </s>
+<s> my life when i leave school when i leave school i would to work in a bookbinding at tonbury where all nice boys </s>
+<s> i should like to get married when i am 20 and have two children and a nice handsome husband with nice wavy (wavey) hair and a nice big house i would not like to have argument with my husband and always talk nice to him and he talk nice to me </s>
+<s> i should not like a fast boyfriend (boyfrend) like some of the girls </s>
+<s> i would like one nice and steady </s>
+<s> when i have my children i would leave the book binding and look after the children </s>
+<s> i would marry a man who likes children not a man that hates (hate) children </s>
+<s> i should like twins two of each or one of each </s>
+<s> i should like to get married in a white gown and carry a prayer-book (prayerbook) have two big bridesmaids and two little bridesmaids and one pageboy </s>
+<s> i would like to dress my children in the same colour (colur) clothes (colhes) i should like a boyfriend with a car so that we cane go out for ride </s>
+<s> i like to go on holiday to the seaside and a honeymoon touring all round the place </s>
+<s> the end </s>
+<s> poem 1 one two three four as i am counting up the shore of course the shore is at the sea one two four three </s>
+<s> two large birds sat on a fence and they heard they were dense (dence) </s>
+<s> two people characters (chartors) jean joyce </s>
+<s> scene i two teenager girls at the top of the village when a boy comes along and asks (ask) them for a date at seven oclock </s>
+<s> the boys (boys) name is john seagull </s>
+<s> the two girls are mucking about on the top road </s>
+<s> the boy was going by on a motor bike </s>
+<s> he stops and leans his motor bike by the shelter wall and said why was you playing on the road havent (havens) you got a boyfriend (he said it to joyce because she was the prettiest (prettest) ) and joyce said no i havent got a boyfriend boyfriend the boy said oh do you want to come out with me because i havent got a girl friend this was about 3 </s>
+<s> 30 one sunday afternoon </s>
+<s> in the winter </s>
+<s> the boy said shall we go for a walk </s>
+<s> joyce still hadnt answered (anwerd) his question </s>
+<s> so he asked (ask) her (he) again </s>
+<s> so joyce said i would like to </s>
+<s> now i will have something to do in the evening </s>
+<s> joyce said i am glad i am going out with you because it was boring sitting at home in the evening doing nothing </s>
+<s> jean already had a boyfriend she was waiting for her boyfriend to come he has a car </s>
+<s> joyce said here (hear) comes (come) roy jean </s>
+<s> john said </s>
+<s> whoevers roy joyce said that is jeans (jeans) boyfriend </s>
+<s> they never did go for a walk </s>
+<s> joyce said shall we go home john said if you like and so they went home joyce said to jean see you tonight cheerio for now </s>
+<s> joyce has no brothers or sisters </s>
+<s> joyces (joyce) parents (prarents) said whoevers this with joyce </s>
+<s> joyce introduced john to her parents (prerents) they said glad to meet you </s>
+<s> john said shall we go (do) to the pictures (picture) </s>
+<s> joyce said yes can roy and jean come if you want so joyce and john walked (walk) down the road to jeans (jeans) house </s>
+<s> he (the) asked jean and she said yes please </s>
+<s> so roy said shall we go in the car </s>
+<s> so they said if you like john said i will pay for you to go to the pictures </s>
+<s> roy (roys) said what time are we going </s>
+<s> john </s>
+<s> said well the pictures starts at 630 and ends at 1030 so if we go about 6 oclock that will be alright </s>
+<s> they had their (they) tea and when it was time to go they said cheerio (cheeroh) dont (want) be late </s>
+<s> they got to the pictures they got out of the car and went through the picture door they paid the (they) man they sat down and the film started </s>
+<s> they put their (there) arms around each other and john said will you kiss </s>
+<s> joyce said if you like </s>
+<s> it was the end of the film they just walked out and got (go) into the car </s>
+<s> jean said what did you think of the film you two </s>
+<s> they said it wasnt (wasnt) too bad what did you think of it </s>
+<s> jean said </s>
+<s> i really enjoyed myself </s>
+<s> they stopped (stop) outside joyces (joyce) house </s>
+<s> john went and had some supper </s>
+<s> and then he went home </s>
+<s> joyce kissed him goodnight and he kissed her goodnight </s>
+<s> and then he went on his motorbike (motor-bikes) </s>
+<s> when he got home he told his mother and father that he had a beautiful girlfriend so they (there) said you will have to bring her to show us </s>
+<s> joyce said alright </s>
+<s> i will bring her tomorrow </s>
+<s> so john told her the next night (tonight) and joyce said i would love to meet your parents </s>
+<s> so they went (sent) over (ove) johns (john) house </s>
+<s> john introduced (introducted) joyce to her mother john mother said glad to meet you and then his father he said the same </s>
+<s> they started to talk and and decided (dicide) to get engaged and married (marrid) the special (spicil) is march 4th 1961 </s>
+<s> and the (they) engagement is dec 25th 1960 </s>
+<s> on christmas day </s>
+<s> their (there) engagement (enagement) soon came </s>
+<s> they are engaged (enaged) now </s>
+<s> many people gave them wedding presents john kept the presents (present) at his house </s>
+<s> but he got too (two) many that joyce had to go keep some of them because john had no more room </s>
+<s> the day came and for the (they) wedding john arrived first and then joyce when joyce got up to john they both walked (walk) up to the steps </s>
+<s> the wedding is over they had their (they) photos </s>
+<s> taken and they went to the hall and had their (they) party </s>
+<s> and the people all said congratulations to you two they both said thank you </s>
+<s> they decided (decider) to have two children (chidren) </s>
+<s> the end </s>
+<s> pop star my best pop singers are cliff richard and adam faith and mark wryer </s>
+<s> the song i like cliff to sing is falling in love and adams (adam) best song is what (want) do you want if you dont (don) want money and i have not heard mark sing yet the best group are the beverly sisters and the everly brothers cliff and adam and mark are not married </s>
+<s> i dont know about the beverley (beverly) sisters (sister) and everly brothers i know (no) two of the beverley (beverly) sisters are married the tallest beverley (beverly) sister is married to billy wright the football player </s>
+<s> but i dont know who the other is married to </s>
+<s> as i looked at this picture it made me think the people were drunk (druck) </s>
+<s> the people throw the things (thinks) on the floor </s>
+<s> the woman put the baby in the chair in the corner so that they can have a sleep </s>
+<s> they opened the window to let the fresh air in </s>
+<s> this picture was (we) painted (panted) in the olden days </s>
+<s> it was dark in the house but not outside </s>
+<s> it looks to me as if it was raining </s>
+<s> the dog is licking up the scraps </s>
+<s> the bird is up in his cage wondering what is happening (happing) </s>
+<s> look at the old fashioned (fashion) shoes </s>
+<s> their (they) socks come up to the top of their (they) legs like long grandpas (grandpas) pants </s>
+<s> one of the children are playing with the fire </s>
+<s> when a woman looks in her pram </s>
+<s> one day a young woman went down the street to do her shopping </s>
+<s> she went into the shop to order her weekly meat of course she left her baby outside the shop </s>
+<s> her baby was still sitting her its pram but the little baby was crying </s>
+<s> the little baby could not talk much he could say little words </s>
+<s> his (hes) mum said to him now what are you crying for my little baby he keep on man man he meant (meant) that man which were going down the road at first she could not understand him you see this man had a black baby in a blue pram and a woman came over the road and (a) said you better watch where (were) you leave your (you) baby misses the babys mother (mothers) said why so the other lady said because you know that old man which has (as) just gone down the road well he tried to take your little baby out of its (its) pram </s>
+<s> so she said thank you very much for telling me and said goodbye so the lady walked (walk) on with her baby </s>
+<s> this time she went into the bakers to get some bread </s>
+<s> the old man with the baby was outside the fishmonger which was just aside the bakers </s>
+<s> the lady went in and while she was in the man changed babies (babys) </s>
+<s> so he had the white one and she had the black one of course he ran away no one saw him </s>
+<s> she came out of the bakers and looked in her pram a saw the baby asleep </s>
+<s> she went home and (a) while the baby was asleep she done some jobs </s>
+<s> when she had done her jobs she said to herself the baby (babys) is having a long sleep </s>
+<s> i go and see if he is still asleep </s>
+<s> she opened the door (down) and she saw (sow) a black baby sitting in her pram she shouted </s>
+<s> after she had shouted she put on her coat and went and phoned (phone) the police </s>
+<s> the police said they would be here in a very few minutes (minetes) </s>
+<s> as soon as she had a knock on the door she said come in it was the policemen </s>
+<s> the police said what can we do for you miss </s>
+<s> so she said this is not my baby i had a white one so the police said when did you first find out she said just a minute ago </s>
+<s> just before before i phoned you </s>
+<s> one of the police said did you leave it outside a shop and she said yes while i went in the bakers </s>
+<s> (she was crying) the other policeman said </s>
+<s> tell us the whole story so she told them to sit down and (aud) asked them if they wanted a cup of tea they said yes </s>
+<s> so she put on the kettle and then sat down and told them (then) the story about her baby </s>
+<s> and the police said they would try and find her own baby </s>
+<s> the very long days went by and still they couldnt find the baby but afte the police heard a little about the baby </s>
+<s> the woman (women) was very upset </s>
+<s> and one day the two policemen came to her house holding a white baby </s>
+<s> so the woman (women) grabbed (grab) the baby and said thank you very much for finding him </s>
+<s> i will give you #5 pounds (ponds) reward </s>
+<s> the policemen took the #5 pounds (ponud) and shared it </s>
+<s> and the old woman lived happy ever after and always took her own baby wherever she went </s>
+<s> the end </s>
+<s> once upon a time there (the) were a girl who wanted to get married but her parents wouldnt let her not until (untill) she were 20 or 21 </s>
+<s> she had a boyfriend and so did he want to get married </s>
+<s> his (hes) parents said if the girls (girls) folk agree you can </s>
+<s> the big day came she was a bit nervous </s>
+<s> she got up to the church and walked in with her father and stood up the altar (alter) with her boyfriend </s>
+<s> she were still nervous and so was he his knees were hitting together </s>
+<s> churching were over she walked up to the door with her husband </s>
+<s> there were all tins and shoes tied (tired) on the back of the car and just married wrote on the window with lipstick </s>
+<s> all the people went back into the room and started clearing up </s>
+<s> they enjoyed living by themselves </s>
+<s> one day they had a serious talk thinking about having a family of their (they) own </s>
+<s> one day it happened (happen) she was pregnant (pregant) so when she told him he was pleased he said i am pleased you are having a baby </s>
+<s> so they went to their (they) parents and told them the news </s>
+<s> he was a bonny boy they were both fond of him </s>
+<s> after that she had two more and when they all grew up they all had families (familys) of their own </s>
+<s> 6 </s>
+<s> william glebe page 90 </s>
+<s> an apple </s>
+<s> it comes off of a tree when you pick it is rosy red and before you eat it makes your mouth water it even makes your mouth water when you hear the name gascoynes scarlet </s>
+<s> when you go scrumping and when you get caught it is worth taking the chance of getting some gascoynes scarlet apples </s>
+<s> when you go scrumping you have got to be careful (carefull) you dont get caught if you do get caught the man will be waiting for you next time you go to get some more gascoyne scarlet apples </s>
+<s> when i go scrumping all i go after is apples and plums pears </s>
+<s> when you go pinching apples (apple) you do not want to take too (to) many people or you will not get away so quick when there are a lot of people with you especially little boys they make too much noise </s>
+<s> if you pick apples off of the ground you have to be careful (carful) of the wasps or else they will sting you and the sting comes up to a big bump wherever it stings you </s>
+<s> when you are by yourself and someone comes and you have to climb over the barbed (barb) wire and get caught the man will probably (probally) catch you but if someone else is with you they can unhook you </s>
+<s> some people when they (the) catch you they might hit you and say (said) he will hit you harder next time he catches you </s>
+<s> but some people say they will hit you next time but warn you not to come in the orchard again but the children could not resist getting some more apples to eat </s>
+<s> it is best getting apples from an orchard where there are no houses </s>
+<s> when i go scrumping i do not take bikes because the man who owns the orchard might come along and take the bikes and if you want your bike you have to go and ask for it and that is how the owner of the orchard knows that you were in the orchard </s>
+<s> i never take a dark jacket or a red one because you will be recognized (reconnised) very easy because red shows up very easy </s>
+<s> but still it is worth getting some gascoynes scarlet apples </s>
+<s> the fox the fox is a sly old beast he sits in his den cleaning and waiting to make another savage attack he walks the field to the farm the smell of chickens in the passing breeze </s>
+<s> hes gone to collect his meal </s>
+<s> he makes a leap </s>
+<s> chickens cackle as the fox collects his meal </s>
+<s> winter when the snow lay round about the robins come out to seek crumbs their feet are numb but the snow still lies round about </s>
+<s> a tree is a place for song thats where birds sing their sweet song </s>
+<s> the leaves have gone </s>
+<s> it will not be long before the tree has gone </s>
+<s> stranded (stranden) on a desert island </s>
+<s> one midsummer (midsummers) day at 930 am </s>
+<s> a ship was wrecked by a coral (corral) reef so people jumped overboard </s>
+<s> people who could not swim did not know it was a case of life or death the ship was sinking fast but some still hung on </s>
+<s> the shore was only about a mile away so some began to swim to the shore </s>
+<s> getting food from the ship was impossible but some people on the ship could get down to the store room and get some diving outfits </s>
+<s> so one man volunteered (volonteered) to swim out to the ship and go down to the store room </s>
+<s> there (their) were dead bodies (bodys) on the deck within 20 minutes of the shipwreck </s>
+<s> there (their) were 1 or 2 live people on board but he was frightened to go on the island </s>
+<s> the man who swam from the island went down to the store room </s>
+<s> he held his breath as he went down below the surface of the water </s>
+<s> as he opened (open) the store room door the water gushed in very quickly </s>
+<s> so he had to feel for the diving suits </s>
+<s> he brought as many as he could find to the surface and that was only 5 </s>
+<s> he got up in the crows nest and waved to the people on the island so they sent two (to) men to help him </s>
+<s> when they arrived they all put their diving suits on then (the) went down to get some food </s>
+<s> lucky (luckily) enough it was mostly tinned (tin) food </s>
+<s> they brought quite a lot up for the people on the island </s>
+<s> when looking around the deck they saw a lifeboat but it had a little hole in one side but they thought it would be good enough take the food to the island in </s>
+<s> they all had one tin of something each </s>
+<s> they all ate this just like pigs feeding out of a trough </s>
+<s> after they had their tin of food to eat people were still hungry so they started looking for coconuts </s>
+<s> they all decided that there would only be two meals a day </s>
+<s> most of them agreed but of course there were some who protested </s>
+<s> there was about 35 on the island but people who used (uset) to get coconuts usually (usally) got lost or got bitten by a snake </s>
+<s> they had shortened (shortend) down (done) from 35 to 15 </s>
+<s> they kept near the coast so they could go in the sea if they wanted to </s>
+<s> and they could also catch fish to eat </s>
+<s> after several weeks ships had seen them waving but took no notice of them in september food was running short so they killed (kill) animals and drank fresh water from springs </s>
+<s> they found here and there </s>
+<s> they found coconuts while hunting for animals </s>
+<s> they took the coconuts down to the shore and drained the milk out and ate the rest of the inside </s>
+<s> they caught quite a few tigers in traps which are holes dug in the ground (gound) and sticks laid (laide) across with grass on top of them </s>
+<s> at night they slept all together under coconut trees </s>
+<s> they were not surprised to see somebody dead in the morning </s>
+<s> one morning in december a ship was going across the sea to england they waved and waved again </s>
+<s> then the ship began to turn and was coming to fetch them they were all delighted </s>
+<s> as soon as (ass) they arrived on board the sailors told them to report to the captains office </s>
+<s> they all too pleased to be on board a ship again the captain said how did you get on that island they replied we were shipwrecked in june and we have been there since </s>
+<s> they arrived in england 2 days later and how glad they were to be back in england again </s>
+<s> the end </s>
+<s> 7 </s>
+<s> walter perkins page 94 </s>
+<s> when evening (evining) is dark and i am alone my fathers (farthers) at work and my mothers at home i sit in my room just reading (reding) a book my hat on the bed and my coat (cote) on the hook (hock) when tv is over and its time for bed i pull over the covers and lay down my head </s>
+<s> i have a girl small and dark (dork) we sit in the garden (gardon) and lay in the park </s>
+<s> the cheetah (cheter) </s>
+<s> a cheetah (cheter) prowls (prouls) around in the thick undergrowth (undergroth) of the jungle (jungel) </s>
+<s> birds clatter (clater) their (there) wings and fly away to escape from the jungle (jungel) cat </s>
+<s> monkeys (munces) swing from tree to tree </s>
+<s> a little (litel) way away the lions are gathering together </s>
+<s> the cheetah (cheter) roars (rorse) something falls (forls) to the ground the cheetah (cheter) has caught (cort) its prey (pray) </s>
+<s> sudden death (dearth) </s>
+<s> one saturday morning when (wen) i was having (haveing) my breakfast (brecfast) a lady came (come) and told me that her little boy had been playing with a dog and the dog had bitten (biten) part of the boys (boys) ear off </s>
+<s> i got my little black bag and followed her </s>
+<s> she told me that she lived in hon street at number 32 </s>
+<s> she took (tuck) me to the river and we went on a houseboat </s>
+<s> i thought (thort) it was a bit queer (quere) then </s>
+<s> in the houseboat there were (where) four (fore) men one sitting (siting) on a chair (chere) one standing at the fore end of the boat another standing at the door where (were) i entered (enterd) and the other laying quite still on a bunk </s>
+<s> the man at the door said thats (thats) what (wat) you are here for </s>
+<s> to see that he lives and to take the bullet (bolot) out of him </s>
+<s> i told him i did not have the proper equipment (aquitment) for the job </s>
+<s> he told me to write (rite) down on a piece (pese) of paper what (wot) i would need (nede) </s>
+<s> not long after one of (on) the men came back with the things i started at once (wons) to try and save his life when (wen) i had got the bullet (bulete) out there was nothing to do but wait (wat) and see what (wot) happened (hapends) outside there was a sound of sirens at that moment the three other men came rushing in i rushed for the gun one of them had he fired but it missed (mist) me then he fired again that shot missed (mist) me too (to) but the man (may) laying on the bunk stopped (stoped) the bullet (bulet) the police came rushing in and took (tuck) the men and body to prison (prisin) the man laying on the bunk was dead that second bullet (bulet) had killed him suddenly (suddenel) </s>
+<s> the end </s>
+<s> 8 </s>
+<s> roger scott page 97 </s>
+<s> i do not like school it (i) is horrible i have had (has) the cane (cain) because of one of the teachers (teacher) got me the cane (cain) for on a bicycle (bicyle) </s>
+<s> dear sir i d like this school because when something is done wrong (rong) we get the blame for it </s>
+<s> so it about time something was done </s>
+<s> there are five of us in my family counting my mother and father (farther) </s>
+<s> my father works at concreteville as a electrician he has a firm of his own six men work for him </s>
+<s> i like my mother and father (farther) but i get a clout on the ear sometimes </s>
+<s> but he is all right </s>
+<s> he got me a new italian suit on saturday and my mum got a pair (per) of trousers on saturday </s>
+<s> the bat </s>
+<s> the bats fly (fie) by night and (a) sleep by day they hold on to the branches by their little feet (fee) </s>
+<s> or in the caves and hold on to the rocks </s>
+<s> bats cannot see but they can hear the bats eat flies (fies) and insects </s>
+<s> the sick sow </s>
+<s> my name is james brown i have some pigs on my farm and six bullocks sexton cows one day one of my sows (sow) went sick i did not know (no) what (wot) was the matter with her feet was ? (solued) and her mouth was sore (saw) i called the vet to look at her he said her has got foot-and-mouth (footandmouth) all the sow pigs bullocks and cows had to be killed (kid) in the area (airaear) of 15 miles all of the market had to be stopped (stoped) after (artair) 16 weeks there (their) had not been (bine) another (aner) outbreak (outdrak) of foot-and-mouth (footanmouth) the markets was open i went to the market and got some pigs and bullocks the money i lost when my animals were (wher) killed (kid) i got it back by selling (seling) the pigs the money i got for the pigs i got some more bullocks and sold (soled) them (the) fo lot i got and got me a castles (castels) lorry </s>
+<s> one year later </s>
+<s> one year later i got me (we) a wife i said to my wife i have got enough money to build (buld) a slaughterhouse (slaughthouse) i asked (arsed) the council (cousall) if i could (cod) have some land to build (billed) a slaughterhouse (slaughthouse) on the council (counsall) replied (replid) saying that i could (cod) so i wrote (roat) to one of the biggest (bigest) building (billding) firms (ferman) and asked (arsed) if they would billed (build) me a slaughterhouse (slaughthouse) they replied (replid) saying that they would build (billd) me a new slaughterhouse (slaughthouse) 20 years later i had enough (nuff) money to retire (retier) on so i gave the farm and the slaughterhouse (slaughthouse) and all of the animals (animl) to my son </s>
+<s> my wife said that she would like to go around the world </s>
+<s> we left (lift) england to go to france (fance) then to all of the main (mane) parts (pars) of the world </s>
+<s> the end </s>
+<s> gut boy </s>
+<s> my name is roger scott i work in a slaughterhouse in bridgebrook i am the gut boy </s>
+<s> i work on saturday and sunday morning </s>
+<s> the first thing i have to do is to make the tea for the men </s>
+<s> on saturday morning we have bullocks to kill first after we have finished the bullocks the men go and have their lunch and we have to clean up and empty the gut truck and then go and have my lunch and a fag </s>
+<s> i go back down to the slaughterhouse after my lunch and nose the pigs up </s>
+<s> by then there (their) would be (by) a gut on the table </s>
+<s> i would do the gut and get a tin inside to run the guts into </s>
+<s> then hang (hung) the pluck up on the hook and that goes on all day </s>
+<s> until they let the hot water out of the tub all of the hair goes into my truck by the time the tub is empty and has been cleaned (clean) i have finished the guts </s>
+<s> all i have to do is to empty the hair and guts and out do (go) the truck and then go home </s>
+<s> the end </s>
+<s> 9 </s>
+<s> james carr page 101 </s>
+<s> the little mother </s>
+<s> one day a girl of 14 fell in love with a boy of 15 </s>
+<s> the girl mary and the boys (boy) name was james (jame) </s>
+<s> james (jame) had been going out with mary for time then one of his friends (frens) told him that she was a prostitute (prostut) </s>
+<s> they were going the next (nest) night james (jame) telephoned (telphoned) mary and told her he would not be seeing (see) her again (agan) mary said (sed) come tonight and i will make it up to you </s>
+<s> so james (jame) all right then i will see you at the your place at 70 pm </s>
+<s> they met on a common (comon) and mary gave james (jame) a durex (durxer) and then are have a sexual (sexul) intercourse (intercors) they said (sed) goodbye (good-by) </s>
+<s> 3 months later (lated) mary discovered (dicuverd) that she (the) was pregnant (pregnet) 6 months later (latter) she had a baby boy the end </s>
+<s> smoking (smocking) in the house (houes) </s>
+<s> one night in bed i had a puff while (wil) reading literature and listening (lsning) to hear if the stairs (sairs) would creak (creek) so i was not caught (cort) indiscreet (indiscrest) not a sound i could hear till (utill) the door was opened (open) as quick a flash (flass) the fag was in bed but my mums (mums) got a bloody (bludy) good nose (nos) </s>
+<s> the m1 to english to english on the m1 </s>
+<s> walk through the english book english as simple (simpl) as abc crazy mixed up english english in a nutshell the authors (others) tongue (tung) </s>
+<s> one night the cat working in the mill spies (spys) a mouse (moues) feeding on corn </s>
+<s> the cat skilfully creeps (creps) up behind a sack and all of a sudden (suden) his muscles (musirls) are tense (tens) he springs (spring) and a little squeak (squick) from the mouse i heard (herd) as the cats (cats) claws (clors) sunk (sunck) deep into the mouse the cat quietly (quily) ate (ete) it and then curled (cerled) up on a sack to sleep (slip) </s>
+correct: 31 total: 471 accuracy: 0.065817
