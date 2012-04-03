@@ -1,12 +1,8 @@
-import re
 import math
 
 class LaplaceUnigramLanguageModel:
-  """following dictionaries are <token,count> pairs"""
+  """following dictionary is <token,count> pairs"""
   unigrams = dict()
-  bigrams = dict()
-  trigrams = dict()
-
   total_tokens = 0
   total_vocab = 0
 
@@ -22,17 +18,15 @@ class LaplaceUnigramLanguageModel:
 
   def load_unigrams(self, corpus):
     """Load the unigrams dictionary """
-    print 'load_unigrams'
-
     for sentence in corpus.corpus:
         for datum in sentence.data: # iterate over datums in the sentence
             m = datum.word # get the word
-            self.total_tokens = self.total_tokens + 1
+            self.total_tokens += 1
             val = 1
             if m in self.unigrams:
                 val = self.unigrams[m] + 1
             else:
-                self.total_vocab = self.total_vocab + 1
+                self.total_vocab += 1
             self.unigrams[m] = val
 
 
@@ -50,8 +44,6 @@ class LaplaceUnigramLanguageModel:
     """
     # TODO your code here
     result = 0.0
-    #  log( (occurrence-count-for-present-word + 1.0) / (total-token-count + vocabulary-size) )
-
     for m in sentence:
         cntUnigram = 0
         if m in self.unigrams:
