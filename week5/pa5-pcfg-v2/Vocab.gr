@@ -1,0 +1,363 @@
+# This is a hand-generated set of preterminal rules.
+# It specifies a simple tag set which will be handled by the S2
+# grammar and which can (though doesn't necessarily need to be)
+# handled by the S1 grammar.
+#
+# The weights given here may be changed, but no new vocabulary
+# items are to be added.
+
+# Miscellaneous items that don't fit into any of our simple tags are
+# given to Misc.  You will want to develop your own tags for these!
+
+# Singular and mass nouns.  Notice that only the
+# ones that start with consonants get our Noun tag.
+1	Noun	castle
+1	Noun	king
+1	Noun	defeater
+1	Noun	sovereign
+1	Noun	servant
+1	Noun	corner
+1	Noun	land
+1	Noun	quest
+1	Noun	chalice
+1	Noun	master
+1	Noun	horse
+1	Noun	fruit
+1	Noun	swallow
+1	Noun	sun
+1	Noun	winter
+1	Noun	coconut
+1	Noun	pound
+1	Noun	husk
+1	Noun	home
+1	Noun	weight
+1	Noun	story
+
+1	Misc	castle
+
+# Determiners.
+1	Det	a
+1	Det	another
+1	Det	any
+1	Det	each
+1	Det	every
+1	Det	no
+1	Det	that
+1	Det	the
+1	Det	this
+
+1	DetP	the
+1	DetP	no
+1	DetP	that
+1	DetP	any
+
+# Prepositions.
+1	Prep	above
+1	Prep	across
+1	Prep	at
+1	Prep	below
+1	Prep	by
+1	Prep	for
+1	Prep	from
+1	Prep	into
+1	Prep	near
+1	Prep	of
+1	Prep	on
+1	Prep	over
+1	Prep	through
+1	Prep	with
+
+# Proper nouns.  Note that our Proper tag is just for people.
+1	Proper	Arthur
+1	Proper	Guinevere
+1	Proper	Sir Lancelot
+1	Proper	Sir Bedevere
+1	Proper	Zoot
+1	Proper	Dingo
+1	Proper	Patsy
+1	Proper	Uther Pendragon
+
+# Verbs (third person singular present).
+# Note that only transitive verbs get our VerbT tag,
+# and some of those could also function as intransitives!
+1	VerbT	has
+1	VerbT	covers
+1	VerbT	is
+1	VerbT	drinks
+1	VerbT	carries
+1	VerbT	rides
+
+# End-of-sentence.
+1	EOS	!
+1	EOS	.
+1	EOS	?
+
+# Pauses.
+1	Pause	,
+1	Pause	...
+1	Pause	--
+1	Pause	;
+1	Pause	:
+
+# Coordinating conjunctions.
+1	Conj	and
+1	Conj	but
+1	Conj	or
+1	Conj	either
+1	Conj	nor
+1	Conj	neither
+1	Conj	so
+
+# Numbers.
+1	Num	eight
+1	Num	five
+1	Num	one
+1	Num	5.5
+1	Num	sixty
+1	Num	5,000
+
+# Expletive.
+1	Expl	there
+
+# Subordinating conjunctions.
+1	SubConj	that
+1	SubConj	so
+1	SubConj	while
+1	SubConj	because
+1	SubConj	if
+
+# Modals.
+1	Modal	can
+1	Modal	could
+1	Modal	may
+1	Modal	might
+1	Modal	must
+1	Modal	ought
+1	Modal	shall
+1	Modal	should
+1	Modal	will
+1	Modal	would
+
+
+# Adjectives.
+1	Adj	bloody
+1	Adj	weary
+1	Adj	unable
+1	Adj	trusty
+1	Adj	further
+1	Adj	sacred
+1	Adj	tropical
+1	Adj	indigenous
+1	Adj	temperate
+1	Adj	hot
+1	Adj	lucky
+1	Adj	simple
+1	Adj	tiny
+1	Adj	hard
+1	Adj	sensational
+1	Adj	comparable
+1	Adj	angolian
+1	Adj	yellow
+1	Adj	plodding
+
+# Comparative adjectives.
+1	CompAdj	bloodier
+1	CompAdj	wearier
+1	CompAdj	trustier
+1	CompAdj	hotter
+1	CompAdj	simpler
+1	CompAdj	tinier
+1	CompAdj	harder
+
+# Superlative adjectives.
+1	SupAdj	bloodiest
+1	SupAdj	weariest
+1	SupAdj	trustiest
+1	SupAdj	hottest
+1	SupAdj	simplest
+1	SupAdj	tiniest
+1	SupAdj	hardest
+
+# Plural nouns.
+1	NounP	coconuts
+1	NounP	halves
+1	NounP	snows
+1	NounP	mountains
+1	NounP	areas
+1	NounP	strangers
+1	NounP	inches
+1	NounP	snakes
+1	NounP	ants
+1	NounP	nights
+
+# More proper nouns, not people.
+
+1	PNP	Camelot
+1	PNP	England
+1	PNP	Holy Grail
+1	PNP	Round Table
+
+1	Places	Camelot
+1	Places	England
+1	Places	mountains
+
+# Plural proper nouns.
+1	ProperP	Britons
+1	ProperP	Saxons
+
+# Personal pronouns.
+1	PersonalPronoun	he
+1	PersonalPronoun	her
+1	PersonalPronoun	him
+1	PersonalPronoun	it
+1	PersonalPronoun	one
+1	PersonalPronoun	she
+1	PersonalPronoun	them
+1	PersonalPronoun	they
+
+
+
+
+# Possessive personal pronouns
+1	PosPersonalPronoun	her
+1	PosPersonalPronoun	his
+1	PosPersonalPronoun	its
+1	PosPersonalPronoun	their
+
+# Adverbs.
+1	Adv	again
+1	Adv	already
+1	Adv	currently
+1	Adv	frequently
+1	Adv	precisely
+1	Adv	south
+1	Adv	successfully
+1	Adv	unfortunately
+
+# 'do'/'does'
+1	Do	do
+1	Does	does
+
+# 'to'
+1	To	to
+
+# 'not'
+1	Not	not
+
+# Verbs (base form).
+1	VerbBase	have
+1	VerbBase	speak
+1	VerbBase	cover
+1	VerbBase	be
+1	VerbBase	ride
+1	VerbBase	drink
+1	VerbBase	grow
+1	VerbBase	carry
+1	VerbBase	suggest
+1	VerbBase	migrate
+1	VerbBase	know
+
+1	TravelVerb	ride
+1	TravelVerb	migrate
+
+# Verbs (past tense).
+1	VerbPastTense	had
+1	VerbPastTense	spoke
+1	VerbPastTense	covered
+1	VerbPastTense	was
+1	VerbPastTense	were
+1	VerbPastTense	rode
+1	VerbPastTense	drank
+1	VerbPastTense	grew
+1	VerbPastTense	carried
+1	VerbPastTense	suggested
+1	VerbPastTense	migrated
+1	VerbPastTense	knew
+
+1	TravelVerbPT	rode
+1	TravelVerbPT	migrated
+
+# Verbs (present participles).
+1	PresentParticiples	having
+1	PresentParticiples	speaking
+1	PresentParticiples	covering
+1	PresentParticiples	being
+1	PresentParticiples	riding
+1	PresentParticiples	drinking
+1	PresentParticiples	growing
+1	PresentParticiples	carrying
+1	PresentParticiples	suggesting
+1	PresentParticiples	migrating
+1	PresentParticiples	knowing
+
+# Verbs (past participle).
+1	PastParticiple	had
+1	PastParticiple	spoken
+1	PastParticiple	covered
+1	PastParticiple	been
+1	PastParticiple	ridden
+1	PastParticiple	drunk
+1	PastParticiple	grown
+1	PastParticiple	carried
+1	PastParticiple	suggested
+1	PastParticiple	migrated
+1	PastParticiple	known
+
+# More third person singular verbs.
+1	VerbTPS	speaks
+1	VerbTPS	grows
+1	VerbTPS	goes
+1	VerbTPS	migrates
+1	VerbTPS	suggests
+1	VerbTPS	knows
+
+# Verbs (present, plural, third person).
+1	VerbTPP	have
+1	VerbTPP	speak
+1	VerbTPP	cover
+1	VerbTPP	are
+1	VerbTPP	ride
+1	VerbTPP	drink
+1	VerbTPP	grow
+1	VerbTPP	carry
+1	VerbTPP	suggest
+1	VerbTPP	migrate
+1	VerbTPP	know
+
+
+# weird ones
+1	Are	are
+1	Is	is
+1	Were	were
+1	Was	was
+1	Have	have
+1	Has	has
+1	It	it
+1	They	they
+1	Been	been
+
+# Wh-determiners.
+1	WhDet	that
+1	WhDet	what
+1	WhDet	which
+
+# Wh-pronouns.
+1	WhPronoun	what
+1	WhPronoun	who
+
+1	What	what
+1	Who	who
+
+
+# Wh possessive pronoun.
+1	WhPosPronoun	whose
+
+# Wh-adverbs
+1	WhAdv	how
+1	WhAdv	when
+1	WhAdv	where
+1	WhAdv	why
+
+
+# Possessive marker.
+1	GenS	's

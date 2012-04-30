@@ -1,0 +1,130 @@
+# The start symbol is START.
+
+# These two rules are required; choose their weights carefully!
+60	START	S1
+40	START	S2
+
+
+5	S1	NP AnyVP EOS
+1	S1	NP Conj NP AnyVP EOS
+5	S1	VP NP EOS
+5	S1	NP VP PP EOS
+5	S1	Q EOS
+1	S1	WhPronoun Q ?
+1	S1	WhAdv Q ?
+1	S1	PPP VP EOS
+1	S1	Num NounP VPP EOS
+1	S1	Conj 3PS Conj NP Does EOS
+1	S1	Conj NP Conj NP VP EOS
+1	S1	NP Passive With EOS
+1	S1	NP Conj NP VerbBase Adv EOS
+1	S1	NP VP Pause NP EOS
+1	S1	NP Pause NPP Pause Is NP EOS
+
+5	VP	VerbT NP
+5	VP	VerbTPS NP
+5	VP	VerbT Adj
+5	VP	VerbPastTense NP
+5	VP	Modal VerbBase NP
+5	VP	Modal VerbBase PP
+5	VP	Modal VerbBase PresentParticiples
+5	VP	Modal Have Been PresentParticiples 
+5	VP	Modal VerbBase PresentParticiples With
+5	VP	Modal VerbBase PastParticiple NP
+5	VP	Modal VerbBase PastParticiple
+5	VP	Modal VerbBase PastParticiple With
+5	VP	Is Loc
+
+5	VPP	VerbBase NPP
+5	VPP	VerbBase Adj
+5	VPP	VerbPastTense NPP
+5	VPP	Modal VerbBase NPP
+5	VPP	Modal Have Been PresentParticiples 
+1	VPP	Modal VerbBase PastParticiple NPP
+5	VPP	Are Loc
+
+20	3PS	NP VerbTPS
+5	3PS	NP VerbPastTense
+5	3PP	NPP VerbBase
+5	3PP	NPP VerbPastTense
+
+1	Any3P	3PS
+1	Any3P	3PP
+
+1	Passive	Is PastParticiple
+1	Passive	Was PastParticiple
+1	Passive	Modal Have Been PastParticiple
+1	PassiveP	Are PastParticiple
+1	PassiveP	Were PastParticiple
+
+
+
+1	Q	Do NPP VerbBase
+1	Q	Do NPP VerbBase AnyNP
+1	Q	Do NPP VerbBase AnyVP
+1	Q	Do NPP VerbBase PersonalPronoun VerbBase
+1	Q	Does NP VerbBase
+1	Q	Does NP VerbBase AnyVP
+1	Q	Does NP VerbBase AnyNP
+1	Q	Does NP VerbBase PersonalPronoun VerbBase
+5	Q	Are	PersonalPronounP PresentParticiples NP Travel
+1	Q	Are	PersonalPronounP PresentParticiples NP TravelPT
+
+
+
+1	With	Prep AnyNP
+
+20	NP	Det Nbar
+20	NP	Det Noun
+5	NP	Num Noun
+5	NP	Adj Noun
+5	NP	Det Adj Noun
+1	NP	Proper
+1	NP	Det Proper
+1	NP	PNP
+1	NP	Det PNP
+10	NP	Nbar
+20	NP	Det Adj Nbar
+1	NP	Proper Conj Proper
+1	NP	It Is NP Who
+
+20	Nbar	Noun
+1	Nbar	Nbar PP
+
+20	NPP	DetP NbarP
+20	NPP	NbarP
+20	NPP	Num	NbarP
+1	NPP	They Are NbarP Who
+
+20	NbarP	NounP
+1	NbarP	NbarP PP
+
+
+
+
+20	PPP	PresentParticiples To Places
+1	PPP	PresentParticiples To VerbBase
+1	PPP	PresentParticiples Adv To VerbBase
+
+5	Travel	TravelVerb To Places
+5	TravelPT	TravelVerbPT To Places
+
+1	Loc	Prep Det Places
+1	Loc	Prep Det PNP
+
+
+
+
+1	PP	Prep NP
+1	PP	Prep NPP
+1	PP	Prep PersonalPronoun
+1	PP	Prep PersonalPronounP
+
+1	AnyVP	VP
+1	AnyVP	VPP
+1	AnyNP	NP
+1	AnyNP	NPP
+
+
+
+
