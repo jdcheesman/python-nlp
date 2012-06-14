@@ -3,6 +3,7 @@
 
 # ignore videos
 *.mp4
+*.avi
 
 
 

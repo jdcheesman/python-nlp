@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Activation))
+      (PP (IN of)
+        (NP
+          (NP (NN ISGF3) (NN alpha))
+          (, ,)
+          (NP
+            (NP (DT the) (JJ latent) (NN component))
+            (PP (IN of)
+              (NP (NN ISGF3))))
+          (, ,))))
+    (VP (VBZ occurs) (RB rapidly))
+    (. .)))

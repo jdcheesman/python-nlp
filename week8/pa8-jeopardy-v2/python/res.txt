@@ -1,0 +1,71 @@
+====================
+====================
+City: ; country: India
+title: <ORGANIZATION>Taj Mahal Location</ORGANIZATION> - Location of Taj Mahal <LOCATION>Agra</LOCATION> - Where is Taj ...
+
+snip: Here, we provide you information about the <em>location of <LOCATION>Taj Mahal</LOCATION></em>, <em><LOCATION>Agra</LOCATION></em>. Read on to know where is <em>Taj Mahal located</em> in <em><LOCATION>India</LOCATION></em>.
+
+link: http://www.tajmahal.org.uk/location.html
+
+====================
+City: Paris; country: France
+title: Eiffel Tower
+
+snip: Jump to ‎: ? A: Yes, at http://www.tour-<em>eiffel</em>.fr. [Return to Summary]
+
+link: http://www.atkielski.com/main/EiffelTowerFAQ.html
+
+====================
+City: Beijing; country: China
+title: History of the <ORGANIZATION>Forbidden City</ORGANIZATION>, <LOCATION>Beijing</LOCATION>, <LOCATION>China
+
+snip: The <em>Forbidden City</LOCATION></em>, <em>located</em> in the center of <LOCATION>China</LOCATION>'s capital, <em><LOCATION>Beijing</LOCATION></em>, displays an extraordinarily harmonious balance between buildings and open space within a ...
+
+link: http://www.kinabaloo.com/fcb.html
+
+====================
+City: Dubai; country: United Arab Emirates
+title: Visit the Burj Khalifa -- The Tallest Building in the World
+
+snip: <em><PERSON>Burj Khalifa</PERSON></em> is the tallest building in the world, and the magnificent ... Visit the jewel of <em><LOCATION>Dubai</LOCATION></em> attractions--<em><PERSON>Burj Khalifa</PERSON></em> observation deck tickets on sale in late ... The Palace Hotel - The Old Town · The <em>Address <LOCATION>Dubai</LOCATION> Mall</em> · <PERSON>Al Manzil</PERSON> · Qamardeen ...
+
+link: http://www.burjkhalifa.ae/
+
+====================
+====================
+City: Moscow; country: Russia
+title: <ORGANIZATION>St. Basil</ORGANIZATION>'s Cathedral on Red Square, <LOCATION>Moscow</LOCATION>
+
+snip: <em>St. Basil's Cathedral</em> on <em>Red Square</em> is <em><LOCATION>Moscow</LOCATION>'s</em> most famous tourist attraction. Visitor information and history for <em><ORGANIZATION>St. Basil's Cathedral</ORGANIZATION></em> and other sights on ...
+
+link: http://www.moscow.info/red-square/st-basils-cathedral.aspx
+
+====================
+====================
+City: Sydney; country: Australia
+title: <ORGANIZATION>Sydney Opera House</ORGANIZATION> Location
+
+snip: Where is the <em><ORGANIZATION>Sydney Opera House</ORGANIZATION> located</em>? ... land called <em>Bennelong Point</em> which juts northward into <em><LOCATION>Sydney</em> Harbour</LOCATION>'s <LOCATION>Port Jackson</LOCATION>. ... Quay Grand Suites <em>Sydney</em> · <em><ORGANIZATION>Sydney Australia</em> Activities</ORGANIZATION> and Attractions - What to See and Do in <em><LOCATION>Sydney</LOCATION></em> . ...
+
+link: http://goaustralia.about.com/cs/sydneyoperahouse/f/operahouse2.htm
+
+====================
+LANDMARK	YOUR GUESSED CITY	CORRECT CITY/CITIES	YOUR GUESSED COUNTRY	CORRECT COUNTRY
+=====CORRECT GUESSES=====
+sydney opera house	Sydney	['sydney']	Australia	australia
+eiffel tower	Paris	['paris']	France	france
+forbidden city	Beijing	['beijing']	China	china
+burj khalifa	Dubai	['dubai']	United Arab Emirates	united arab emirates
+saint basil's cathedral	Moscow	['red square', 'moscow']	Russia	russia
+=====NO GUESSES=====
+statue of liberty		['liberty island', 'new york harbor', 'new york city']	New York	new york
+taj mahal		['agra']	India	india
+=====INCORRECT GUESSES=====
+stanford university	San Jose	['palo alto', 'stanford']	California	california
+parthenon	Nashville	['athenian acropolis', 'acropolis', 'athens']	Tennessee	greece
+christ the redeemer	Houston	['rio de janeiro']	Texas	brazil
+=====TOTAL SCORE=====
+correct guesses: 13
+no guesses: 2
+incorrect guesses: 5
+total score: 8 out of 20

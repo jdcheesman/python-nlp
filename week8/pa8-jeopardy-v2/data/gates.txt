@@ -1,0 +1,33 @@
+{{otherpeople}}
+{{pp-semi-vandalism|small=yes}}
+{{Infobox Person
+| name        =Bill Gates
+| image       = Bill Gates - World Economic Forum Annual Meeting Davos 2008 number3.jpg
+| caption     = Bill Gates at the [[World Economic Forum]] in [[Davos]], 2008
+| birth_date  = {{birth date and age|1955|10|28}}
+| birth_place = [[Seattle, Washington]]
+| occupation  = Chairman of [[Microsoft]]&lt;br&gt;Co-Chair of [[Bill &amp; Melinda Gates Foundation]]
+| networth    = {{gain}}[[United States dollar|US$]]58 [[1,000,000,000 (number)|billion]] (2008)&lt;ref name=&quot;networth&quot;&gt;{{cite web
+  | title = The World's Billionaires #3 William Gates III
+  | publisher = [[Forbes]]
+  | date = 2008-03-05
+  | url = http://www.forbes.com/lists/2008/10/billionaires08_William-Gates-III_BH69.html
+  | accessdate = 2008-03-06 }}&lt;/ref&gt;
+| spouse      = [[Melinda Gates]] (1994–present)
+| children    = Jennifer Katharine Gates (1996), Rory John Gates (1999) and Phoebe Adele Gates (2002)
+| residence = {{flagicon|USA}}  United States
+| alma_mater = Harvard University (dropped out in 1975, honorary degree in 2007)&lt;ref&gt; {{cite news
+  | last = Lombardi
+  | first = Candace
+  | title = Bill Gates &quot;graduates&quot; from Harvard 30 years after dropping out
+  | publisher = CNET News.com
+  | date = 2007-06-08
+  | url = http://www.zdnet.com.au/news/software/soa/Bill-Gates-graduates-from-Harvard-30-years-after-dropping-out/0,130061733,339278363,00.htm
+  | accessdate = 2008-08-04}}&lt;/ref&gt;
+| website     = [http://www.microsoft.com/presspass/exec/billg/default.mspx Bill Gates]
+|signature     = BillGates Signature.svg
+| footnotes   =
+}}
+
+'''William Henry''' &quot;'''Bill'''&quot; '''Gates III''', [[Order of the British Empire|KBE]] (born October 28, 1955),&lt;ref&gt;{{harv|Manes|1994|p=11}}&lt;/ref&gt; is an [[United States|American]] [[business magnate]], [[philanthropist]], the [[List of the 100 wealthiest people|world's third richest person]] (as of February 8, 2008),&lt;ref name=&quot;networth&quot; /&gt; the [[Forbes 400|second richest American]] (as of October 10, 2008),&lt;ref&gt;{{cite web
+  | title = The 400 Richest Americans #1 William Gates III

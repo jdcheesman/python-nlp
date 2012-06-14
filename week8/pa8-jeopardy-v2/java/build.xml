@@ -1,0 +1,33 @@
+<project>
+    <target name="clean">
+      <delete dir="classes"/>
+    </target>
+
+    <target name="compile">
+      <mkdir dir="classes"/>
+      <javac srcdir="." destdir="classes"  includeantruntime="false" target="1.6">
+	<classpath>
+	  <pathelement path="json-simple-1.1.1.jar"/>
+	</classpath>
+      </javac>
+    </target>
+    
+    <target name="run_wiki" depends="compile">
+      <java classname="Wiki" classpath="classes" fork="true">
+      </java>
+    </target>
+    
+    <target name="run_googling" depends="compile">
+      <java classname="Googling" classpath="classes" fork="true">
+      </java>
+    </target>
+
+    <target name="submit" depends="compile">
+      <java classname="Submit" fork="false">
+	<classpath>
+	<pathelement path="json-simple-1.1.1.jar"/> 
+	  <pathelement path="classes"/>
+	</classpath>
+      </java>
+    </target>
+</project>

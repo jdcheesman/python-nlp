@@ -1,0 +1,36 @@
+
+	(ROOT
+		(S
+			(NP
+				(JJ Alpha-lipoic)
+				(NN acid)
+			)
+			(VP
+				(VBZ is)
+				(NP
+					(NP
+						(DT a)
+						(JJ potent)
+						(NN inhibitor)
+					)
+					(PP
+						(IN of)
+						(NP
+							(NN NF-kappa)
+							(NN B)
+							(NN activation)
+						)
+					)
+				)
+				(PP
+					(IN in)
+					(NP
+						(JJ human)
+						(NN T)
+						(NNS cells)
+					)
+				)
+			)
+			(. .)
+		)
+	)

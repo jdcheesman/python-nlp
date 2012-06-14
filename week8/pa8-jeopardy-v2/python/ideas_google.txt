@@ -1,0 +1,27 @@
+                # something = False
+                # for city in self.USCITIES:
+                #     if w in city:
+                #         cnt = 1
+                #         if w in us_cities.keys():
+                #             cnt = us_cities[w] +1
+                #         us_cities[w] = cnt
+                #         something = True
+                # for state in self.US_STATES:
+                #     if w.lower() in state:
+                #         cnt = 1
+                #         if w in us_states.keys():
+                #             cnt = us_states[w] +1
+                #         us_states[w] = cnt
+                #         something = True
+                # for country in self.COUNTRIES:
+                #     if w in country:
+                #         cnt = 1
+                #         if w in countries.keys():
+                #             cnt = countries[w] +1
+                #         countries[w] = cnt
+                #         something = True
+                # if not something:
+                #     cnt = 1
+                #     if w in unknown.keys():
+                #         cnt = unknown[w] +1
+                #     unknown[w] = cnt

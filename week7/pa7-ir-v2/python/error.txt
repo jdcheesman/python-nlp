@@ -1,0 +1,16 @@
+    Score: 3 Feedback: 5/5 Correct. Accuracy: 1.000000
+Cosine Similarity Test
+rank_retrieve
+counting query words in documents
+Traceback (most recent call last):
+  File "IRSystem.py", line 500, in <module>
+    main(args)
+  File "IRSystem.py", line 489, in main
+    run_tests(irsys)
+  File "IRSystem.py", line 461, in run_tests
+    ranked = irsys.query_rank(query)
+  File "IRSystem.py", line 399, in query_rank
+    return self.rank_retrieve(query)
+  File "IRSystem.py", line 315, in rank_retrieve
+    doc_tfidf[word].append(self.get_tfidf(word,d))
+KeyError: 'separ'
